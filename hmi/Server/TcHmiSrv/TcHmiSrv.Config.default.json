@@ -2694,4 +2694,6 @@
         "/Beckhoff.TwinCAT.HMI.Functions": "C:\\dev\\tchmi-color-from-value\\Packages\\Beckhoff.TwinCAT.HMI.Functions.12.742.0\\runtimes\\native1.12-tchmi",
         "/bin": "C:\\dev\\tchmi-color-from-value\\hmi\\bin\\",
         "/bin/framework": "C:\\dev\\tchmi-color-from-value\\hmi\\bin\\framework",
-        "/framework": "C:\\dev\\tchmi-color-from-value\\Packages\\Beckhoff.TwinCAT.HMI.Framework.12.742.0\
+        "/framework": "C:\\dev\\tchmi-color-from-value\\Packages\\Beckhoff.TwinCAT.HMI.Framework.12.742.0\\runtimes\\native1.12-tchmi"
+    }
+}

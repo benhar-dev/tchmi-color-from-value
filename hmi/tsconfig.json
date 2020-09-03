@@ -29,4 +29,5 @@
   ],
   "include": [
     "C:/dev/tchmi-color-from-value/Packages/Beckhoff.TwinCAT.HMI.Framework.12.742.0/runtimes/native1.12-tchmi/TcHmi.d.ts"
-  
+  ]
+}

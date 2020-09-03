@@ -49,12 +49,11 @@ The Javascript code is here
 })(TcHmi);
 ```
 
-
 ## Install 
 Not required.  Simply open the project.
 
 ## TwinCAT
-This project uses TcXaeShell 3.1.4024.10 and TwinCAT HMI 1.10.1336.404
+This project uses TcXaeShell 3.1.4024.10 and TwinCAT HMI 1.12.742.0
 
 ## Getting started
 This is not a guide for TcXaeShell, please visit http://beckhoff.com/ for further guides
