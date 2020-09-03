@@ -1,0 +1,30 @@
+﻿{
+  "function": {
+    "name": "ColorFromValue",
+    "namespace": "TcHmi.Functions.hmi",
+    "displayName": "ColorFromValue",
+    "description": "",
+    "waitMode": "Synchronous",
+    "category": "",
+    "returnValue": {
+      "type": "tchmi:general#/definitions/Object"
+    },
+    "visible": true,
+    "injectContextObject": false,
+    "arguments": [
+      {
+        "name": "myValue",
+        "displayName": "myValue",
+        "type": "tchmi:general#/definitions/Number",
+        "description": "",
+        "defaultValue": "",
+        "required": true,
+        "bindable": true,
+        "restParameter": false,
+        "asReference": false,
+        "allowControlAttributeBindingOptions": false
+      }
+    ]
+  },
+  "$schema": "../.hmiframework/Schema/FunctionDescription.Schema.json"
+}

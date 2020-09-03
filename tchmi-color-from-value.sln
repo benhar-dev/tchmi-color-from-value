@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "hmi", "hmi\hmi.hmiproj", "{4088A08C-E644-42C0-AEBA-C1295530EC07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT CE7 (ARMV7) = Debug|TwinCAT CE7 (ARMV7)
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Debug|TwinCAT OS (ARMT2) = Debug|TwinCAT OS (ARMT2)
+		Debug|TwinCAT RT (x64) = Debug|TwinCAT RT (x64)
+		Debug|TwinCAT RT (x86) = Debug|TwinCAT RT (x86)
+		Release|TwinCAT CE7 (ARMV7) = Release|TwinCAT CE7 (ARMV7)
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+		Release|TwinCAT OS (ARMT2) = Release|TwinCAT OS (ARMT2)
+		Release|TwinCAT RT (x64) = Release|TwinCAT RT (x64)
+		Release|TwinCAT RT (x86) = Release|TwinCAT RT (x86)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Debug|TwinCAT CE7 (ARMV7).ActiveCfg = Debug|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Debug|TwinCAT OS (ARMT2).ActiveCfg = Debug|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Debug|TwinCAT RT (x64).ActiveCfg = Debug|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Debug|TwinCAT RT (x86).ActiveCfg = Debug|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Release|TwinCAT CE7 (ARMV7).ActiveCfg = Release|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Release|TwinCAT OS (ARMT2).ActiveCfg = Release|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Release|TwinCAT RT (x64).ActiveCfg = Release|TwinCAT HMI
+		{4088A08C-E644-42C0-AEBA-C1295530EC07}.Release|TwinCAT RT (x86).ActiveCfg = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB2B28C-B7C6-45BB-9B46-1B04A1157C9D}
+	EndGlobalSection
+EndGlobal
